@@ -1,6 +1,6 @@
 # REQUETER UNE BASE DE DONNEES AVEC SQL 
 
-Projet réalisé dans le cadre de ma formation Data Analyst. 
+Projet réalisé dans le cadre de ma formation Data Analyst d'OpenClassrooms. 
 
 ## Mise en situation
 
